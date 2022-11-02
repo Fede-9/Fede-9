@@ -9,10 +9,23 @@
     📭 How to reach me: 
 
 <p align='center'> 
-  <a href='https://twitter.com/ComettoFede'><img src=''></a>
-  <a href='https://instagram.com/fedecometto'><img src='https://www.flaticon.es/icono-gratis/instagram_2111463?related_id=2111463&origin=search'></a>
-  <a href='https://www.linkedin.com/in/fedecometto/'><img src=''></a>
+    <a href='https://www.linkedin.com/in/fedecometto/'><img src='iconos/linkedin.png' width='30px' height='30px' ></a>
+    <a href='https://instagram.com/fedecometto'><img src='iconos/instagram.png' width='30px' height='30px' ></a>
+    <a href='https://twitter.com/ComettoFede'><img src='iconos/twitter.png' width='30px' height='30px' ></a>
 </p>
 
 ----
 
+    🔧 Skills & Tools
+<p align='center'>
+    <img src='iconos/html-5.png' width='70px' height='70px' >
+    <img src='iconos/css-3.png' width='70px' height='70px' >
+    <img src='iconos/js.png' width='70px' height='70px' >
+    <img src='iconos/react.png' width='70px' height='70px' >
+    <img src='iconos/mysql.png' width='70px' height='70px' >
+    <img src='iconos/python.png' width='70px' height='70px' >
+    <img src='iconos/flask.png' width='70px' height='70px' >
+    <img src='iconos/git.png' width='70px' height='70px' >
+    <img src='iconos/figma.png' width='70px' height='70px' >
+</p>
+       
