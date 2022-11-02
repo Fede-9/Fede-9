@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to my profile! 👋😀
 
-<!--
-**Fede-9/Fede-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    👋 Hi! My name is Federico and I'm studying software development at the Technological Institute of Río Cuarto, Córdoba.
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    🌱 I'm currently learning web development and software development in general.
+    📭 How to reach me: 
+
+<p align='center'> 
+  <a href='https://twitter.com/ComettoFede'><img src=''></a>
+  <a href='https://instagram.com/fedecometto'><img src='https://www.flaticon.es/icono-gratis/instagram_2111463?related_id=2111463&origin=search'></a>
+  <a href='https://www.linkedin.com/in/fedecometto/'><img src=''></a>
+</p>
+
+----
+
