@@ -21,11 +21,12 @@
     <img src='iconos/html-5.png' width='70px' height='70px' >
     <img src='iconos/css-3.png' width='70px' height='70px' >
     <img src='iconos/js.png' width='70px' height='70px' >
-    <img src='iconos/react.png' width='70px' height='70px' >
+    <img src='iconos/react-2.png' width='70px' height='70px' >
     <img src='iconos/mysql.png' width='70px' height='70px' >
     <img src='iconos/python.png' width='70px' height='70px' >
     <img src='iconos/flask.png' width='70px' height='70px' >
     <img src='iconos/git.png' width='70px' height='70px' >
+    <img src='iconos/xampp.png' width='70px' height='70px' >
     <img src='iconos/figma.png' width='70px' height='70px' >
 </p>
        
