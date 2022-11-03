@@ -18,7 +18,7 @@
 
     🔧 Skills & Tools
 <p align='center'>
-    <a><img src='iconos/html-5.png' width='70px' height='70px' ></a>
+    <a href='#'><img src='iconos/html-5.png' width='70px' height='70px' ></a>
     <img src='iconos/css-3.png' width='70px' height='70px' >
     <img src='iconos/js.png' width='70px' height='70px' >
     <img src='iconos/react-2.png' width='70px' height='70px' >
