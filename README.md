@@ -25,6 +25,7 @@
     <img src='iconos/mysql.png' width='70px' height='70px' >
     <img src='iconos/python.png' width='70px' height='70px' >
     <img src='iconos/flask.png' width='70px' height='70px' >
+    <img src='iconos/R.png' width='70px' height='70px' >
     <img src='iconos/git.png' width='70px' height='70px' >
     <img src='iconos/xampp.png' width='70px' height='70px' >
     <img src='iconos/figma.png' width='70px' height='70px' >
