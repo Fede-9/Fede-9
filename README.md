@@ -19,7 +19,7 @@
     🔧 Skills & Tools
 <p align='center'>
     <a href='#'><img src='iconos/html.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/css-3.png' width='70px' height='70px' ></a>
+    <a href='#'><img src='iconos/css.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/js.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/react-2.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/mysql.png' width='70px' height='70px' ></a>
