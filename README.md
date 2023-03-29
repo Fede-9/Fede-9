@@ -22,7 +22,7 @@
     <a href='#'><img src='iconos/css-3.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/js.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/react-2.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/mysqll.png' width='70px' height='70px' ></a>
+    <a href='#'><img src='iconos/mysql.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/python.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/flask.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/R.png' width='70px' height='70px' ></a>
