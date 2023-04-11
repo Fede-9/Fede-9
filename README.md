@@ -22,6 +22,7 @@
     <a href='#'><img src='iconos/flask.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/fastapi.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/mysql.png' width='70px' height='70px' ></a>
+</p>
     <a href='#'><img src='iconos/postgre.png' width='70px' height='70px' ></a>    
     <a href='#'><img src='iconos/html.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/css.png' width='70px' height='70px' ></a>
@@ -30,5 +31,5 @@
     <a href='#'><img src='iconos/node.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/git.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/xampp.png' width='70px' height='70px' ></a>
-</p>
+
        
