@@ -11,7 +11,6 @@
 <p align='center'> 
     <a href='https://www.linkedin.com/in/fedecometto/'><img src='iconos/linkedin.png' width='30px' height='30px' ></a>
     <a href='https://instagram.com/fedecometto'><img src='iconos/instagram.png' width='30px' height='30px' ></a>
-    <a href='https://twitter.com/ComettoFede'><img src='iconos/twitter.png' width='30px' height='30px' ></a>
 </p>
 
 ----
