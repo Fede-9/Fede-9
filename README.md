@@ -26,11 +26,12 @@
 </p>
 
 <p align='center'>
+    <a href='#'><img src='iconos/django.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/flask.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/fastapi.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/react-2.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/node.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/git.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/xampp.png' width='70px' height='70px' ></a>
+    
 </p>
        
