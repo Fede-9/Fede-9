@@ -11,7 +11,7 @@
 
 <p align='center'> 
     <a href='https://www.linkedin.com/in/fedecometto/'><img src='iconos/linkedin.png' width='30px' height='30px' ></a>
-    <a href='mailto:fedecometto98@gmail.com'><img src='iconos/gmail.png' width='40px' height='40px' ></a>
+    <a href='mailto:fedecometto98@gmail.com'><img src='iconos/gmail.png' width='35px' height='35px' ></a>
 </p>
 
 
