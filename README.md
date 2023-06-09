@@ -1,9 +1,8 @@
 ### Welcome to my profile! 👋😀
 
 
-    👋 Hi! 
-       My name is Federico, and I'm a software development student at the Technological Institute of Río Cuarto in Córdoba, Argentina. 
-       I have a strong passion for programming and love exploring the endless possibilities in this ever-evolving field.
+👋 Hi! My name is Federico, and I'm a software development student at the Technological Institute of Río Cuarto in Córdoba, Argentina. 
+   I have a strong passion for programming and love exploring the endless possibilities in this ever-evolving field.
 ----
 
 
