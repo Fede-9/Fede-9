@@ -23,7 +23,7 @@
     <a href='#'><img src='iconos/js.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/html.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/css.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/mysql.png' width='70px' height='70px' ></a>
+    <a href='#'><img src='iconos/icons8-mysql-48.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/postgre.png' width='70px' height='70px' ></a> 
 </p>
 
