@@ -33,6 +33,7 @@
     <a href='#'><img src='iconos/fastapi.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/react-2.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/node.png' width='70px' height='70px'></a>
+    <a href='#'><img src='iconos/sequelize_original_logo_icon_146348.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/icons8-express-js-80.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/icons8-jest-can-collect-code-coverage-information-from-entire-projects-96.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/git.png' width='70px' height='70px' ></a>
