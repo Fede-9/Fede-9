@@ -20,23 +20,24 @@
     🔧 Skills & Tools
 <p align='center'>
     <a href='#'><img src='iconos/python.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/js.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/html.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/css.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/icons8-mysql-48.png' width='70px' height='70px' ></a>
-    <a href='#'><img src='iconos/postgre.png' width='70px' height='70px' ></a> 
-</p>
-
-<p align='center'>
     <a href='#'><img src='iconos/django.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/flask.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/fastapi.png' width='70px' height='70px' ></a>
+    <a href='#'><img src='iconos/js.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/react-2.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/node.png' width='70px' height='70px'></a>
+    <a href='#'><img src='iconos/html.png' width='70px' height='70px' ></a>
+    <a href='#'><img src='iconos/css.png' width='70px' height='70px' ></a>
+
+</p>
+
+<p align='center'>
+    <a href='#'><img src='iconos/icons8-mysql-48.png' width='70px' height='70px' ></a>
+    <a href='#'><img src='iconos/postgre.png' width='70px' height='70px' ></a> 
     <a href='#'><img src='iconos/sequelize_original_logo_icon_146348.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/icons8-express-js-80.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/icons8-jest-can-collect-code-coverage-information-from-entire-projects-96.png' width='70px' height='70px'></a>
     <a href='#'><img src='iconos/git.png' width='70px' height='70px' ></a>
-    
+    <a href='#'><img src='iconos/icons8-estibador-48.png' width='70px' height='70px' ></a>   
 </p>
        
