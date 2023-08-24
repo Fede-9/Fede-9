@@ -22,7 +22,7 @@
 <p></p>
     <table>
     <tbody>
-        <tr>
+        <tr align='center'>
             <td align='center' height='108' width='108'><img src='iconos/python.png' width='70px' height='70px'><br>Python</td>
             <td align='center' height='108' width='108'><img src='iconos/django.png' width='70px' height='70px'><br>Django</td>
             <td align='center' height='108' width='108'><img src='iconos/flask.png' width='70px' height='70px'><br>Flask</td>
