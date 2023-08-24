@@ -17,9 +17,11 @@
 
 ----
 
-    🔧 Skills & Tools
+    🔧 Technologies & Tools
 <p align='center'>
+    <p>
     <a href='#'><img src='iconos/python.png' width='70px' height='70px' ></a>
+    </p>
     <a href='#'><img src='iconos/django.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/flask.png' width='70px' height='70px' ></a>
     <a href='#'><img src='iconos/fastapi.png' width='70px' height='70px' ></a>
