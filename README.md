@@ -26,7 +26,6 @@
             <td align='center' height='108' width='108'><img src='iconos/python.png' width='70px' height='70px'></td>
             <td align='center' height='108' width='108'><img src='iconos/django.png' width='70px' height='70px'></td>
             <td align='center' height='108' width='108'><img src='iconos/flask.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/fastapi.png' width='70px' height='70px'></td>
             <td align='center' height='108' width='108'><img src='iconos/js.png' width='70px' height='70px'></td>
             <td align='center' height='108' width='108'><img src='iconos/react-2.png' width='70px' height='70px'></td>
             <td align='center' height='108' width='108'><img src='iconos/node.png' width='70px' height='70px'></td>
