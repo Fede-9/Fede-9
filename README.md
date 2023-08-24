@@ -18,37 +18,33 @@
 ----
 
     🔧 Technologies & Tools
-
+ 
+<p></p>
     <table>
-        <tbody>
-            <tr>
-                <td align='center' height='108' width='108'><img src='iconos/python.png' width='70px' height='70px' ></a></td>
-                <td align='center' height='108' width='108'><a href='#'><a href='#'><img src='iconos/django.png' width='70px' height='70px' ></a></a></td>
-                <td align='center' height='108' width='108'><a href='#'><a href='#'><img src='iconos/flask.png' width='70px' height='70px' ></a></td>
-                <td align='center' height='108' width='108'><a href='#'><a href='#'><img src='iconos/fastapi.png' width='70px' height='70px' ></a></td>
-                <td align='center' height='108' width='108'><a href='#'><a href='#'><img src='iconos/js.png' width='70px' height='70px' ></a></td>
-                <td align='center' height='108' width='108'><a href='#'><a href='#'><img src='iconos/react-2.png' width='70px' height='70px'></a></td>
-                <td align='center' height='108' width='108'><a href='#'><a href='#'><img src='iconos/node.png' width='70px' height='70px'></a></td>
-                <td align='center' height='108' width='108'><a href='#'><a href='#'><img src='iconos/html.png' width='70px' height='70px' ></a></td>
-                <td align='center' height='108' width='108'><a href='#'><a href='#'><img src='iconos/css.png' width='70px' height='70px' ></a></td>
-            </tr>
-    
-    
-    
-            <tr>
-                <a href='#'><img src='iconos/icons8-mysql-48.png' width='70px' height='70px' ></a>
-                <a href='#'><img src='iconos/postgre.png' width='70px' height='70px' ></a> 
-                <a href='#'><img src='iconos/sequelize_original_logo_icon_146348.png' width='70px' height='70px'></a>
-                <a href='#'><img src='iconos/icons8-express-js-80.png' width='70px' height='70px'></a>
-                <a href='#'><img src='iconos/icons8-jest-can-collect-code-coverage-information-from-entire-projects-96.png' width='70px' height='70px'></a>
-                <a href='#'><img src='iconos/git.png' width='70px' height='70px' ></a>
-                <a href='#'><img src='iconos/icons8-estibador-48.png' width='70px' height='70px' ></a>   
-                
-            </tr>
-    
-        </tbody>
-    </table>
-    
+    <tbody>
+        <tr>
+            <td align='center' height='108' width='108'><img src='iconos/python.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/django.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/flask.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/fastapi.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/js.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/react-2.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/node.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/html.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/css.png' width='70px' height='70px'></td>
+        </tr>
+        <tr>
+            <td align='center' height='108' width='108'><img src='iconos/icons8-mysql-48.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/postgre.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/sequelize_original_logo_icon_146348.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/icons8-express-js-80.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/icons8-jest-can-collect-code-coverage-information-from-entire-projects-96.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/git.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/icons8-estibador-48.png' width='70px' height='70px'></td>
+        </tr>
+    </tbody>
+</table>
+
     
     
     
