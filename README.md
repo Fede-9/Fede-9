@@ -23,26 +23,27 @@
     <table>
     <tbody>
         <tr>
-            <td align='center' height='108' width='108'><img src='iconos/python.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/django.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/flask.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/js.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/react-2.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/node.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/html.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/css.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/python.png' width='70px' height='70px'><br>Python</td>
+            <td align='center' height='108' width='108'><img src='iconos/django.png' width='70px' height='70px'><br>Django</td>
+            <td align='center' height='108' width='108'><img src='iconos/flask.png' width='70px' height='70px'><br>Flask</td>
+            <td align='center' height='108' width='108'><img src='iconos/js.png' width='70px' height='70px'><br>JavaScript</td>
+            <td align='center' height='108' width='108'><img src='iconos/react-2.png' width='70px' height='70px'><br>React</td>
+            <td align='center' height='108' width='108'><img src='iconos/node.png' width='70px' height='70px'><br>Node.js</td>
+            <td align='center' height='108' width='108'><img src='iconos/html.png' width='70px' height='70px'><br>HTML</td>
+            <td align='center' height='108' width='108'><img src='iconos/css.png' width='70px' height='70px'><br>CSS</td>
         </tr>
         <tr>
-            <td align='center' height='108' width='108'><img src='iconos/icons8-mysql-48.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/postgre.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/sequelize_original_logo_icon_146348.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/icons8-express-js-80.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/icons8-jest-can-collect-code-coverage-information-from-entire-projects-96.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/git.png' width='70px' height='70px'></td>
-            <td align='center' height='108' width='108'><img src='iconos/icons8-estibador-48.png' width='70px' height='70px'></td>
+            <td align='center' height='108' width='108'><img src='iconos/icons8-mysql-48.png' width='70px' height='70px'><br>MySQL</td>
+            <td align='center' height='108' width='108'><img src='iconos/postgre.png' width='70px' height='70px'><br>PostgreSQL</td>
+            <td align='center' height='108' width='108'><img src='iconos/sequelize_original_logo_icon_146348.png' width='70px' height='70px'><br>Sequelize</td>
+            <td align='center' height='108' width='108'><img src='iconos/icons8-express-js-80.png' width='70px' height='70px'><br>Express</td>
+            <td align='center' height='108' width='108'><img src='iconos/icons8-jest-can-collect-code-coverage-information-from-entire-projects-96.png' width='70px' height='70px'><br>Jest</td>
+            <td align='center' height='108' width='108'><img src='iconos/git.png' width='70px' height='70px'><br>Git</td>
+            <td align='center' height='108' width='108'><img src='iconos/icons8-estibador-48.png' width='70px' height='70px'><br>Docker</td>
         </tr>
     </tbody>
 </table>
+
 
     
     
