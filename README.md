@@ -28,9 +28,9 @@
             <td align='center' height='108' width='108'><img src='iconos/flask.png' width='70px' height='70px'><br>Flask</td>
             <td align='center' height='108' width='108'><img src='iconos/js.png' width='70px' height='70px'><br>JavaScript</td>
             <td align='center' height='108' width='108'><img src='iconos/react-2.png' width='70px' height='70px'><br>React</td>
-            <td align='center' height='108' width='108'><img src='iconos/node.png' width='70px' height='70px'><br>Node.js</td>
-            <td align='center' height='108' width='108'><img src='iconos/html.png' width='70px' height='70px'><br>HTML</td>
-            <td align='center' height='108' width='108'><img src='iconos/css.png' width='70px' height='70px'><br>CSS</td>
+            <td align='center' height='108' width='108'><img src='iconos/node.png' width='70px' height='70px'><br>Node JS</td>
+            <td align='center' height='108' width='108'><img src='iconos/html.png' width='70px' height='70px'><br>HTML5</td>
+            <td align='center' height='108' width='108'><img src='iconos/css.png' width='70px' height='70px'><br>CSS3</td>
         </tr>
         <tr>
             <td align='center' height='108' width='108'><img src='iconos/icons8-mysql-48.png' width='70px' height='70px'><br>MySQL</td>
