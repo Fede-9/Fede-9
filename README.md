@@ -16,8 +16,8 @@
 
 
 ----
-
-    🔧 Technologies & Tools
+<h2>🔧 Technologies & Tools</h2>
+    
  
 <p></p>
     <table align='center'>
