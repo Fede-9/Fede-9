@@ -40,6 +40,7 @@
             <td align='center' height='108' width='108'><img src='iconos/icons8-jest-can-collect-code-coverage-information-from-entire-projects-96.png' width='70px' height='70px'><br>Jest</td>
             <td align='center' height='108' width='108'><img src='iconos/git.png' width='70px' height='70px'><br>Git</td>
             <td align='center' height='108' width='108'><img src='iconos/icons8-estibador-48.png' width='70px' height='70px'><br>Docker</td>
+            <td align='center' height='108' width='108'><img src='bootstrap.png' width='70px' height='70px'><br>Bootstrap</td>
         </tr>
     </tbody>
 </table>
